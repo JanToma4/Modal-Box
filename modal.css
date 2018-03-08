@@ -1,0 +1,146 @@
+body {
+    background-color: ;
+    background-image: url("http://www.powerpointhintergrund.com/uploads/2017/08/background-pictures-images-and-stock-photos-istock-11.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    text-align: center;
+    color: aquamarine;
+}
+
+.openButton {
+    text-align: center;
+    margin: 0% 47% 0% 47%;
+}
+
+.modalBox {
+    width: 60%;
+    height: 40%;
+    margin: auto;
+    margin-top: 10%;
+    background-color: aquamarine;
+    border: 5px solid darkgray;
+    border-radius: 10px;
+    border-bottom-color: gray;
+    border-right-color: gray;
+    display: none;
+}
+.modalTitle {
+    text-align: center;
+    background-color: beige;
+    font-family: cursive;
+    padding-left: 6%;
+}
+
+.close {
+    float: right;
+    cursor: default;
+    background-color: darkred;
+    padding: 0% 3% 0% 3%;
+    opacity: 0.8;
+    font-family: cursive;
+    border-radius: 5px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.close:hover {
+    opacity: 1;
+}
+
+.centered {
+    text-align: center;
+}
+
+.buttonGameOne {
+    text-align: center;
+    margin-left: 40%;
+    width: 40px;
+    height: 20px;
+}
+
+.buttonGameTwo {
+    text-align: center;
+    margin-left: 4.5%;
+    width: 40px;
+    height: 20px;
+}
+
+.yesBox {
+    height: 40%;
+    width: 20%;
+    margin: auto;
+    margin-top: 10%;
+    padding-bottom: 1%;
+    background-color: aqua;
+    border: 5px solid white;
+    border-radius: 5px;
+    border-bottom-color: gray;
+    border-right-color: gray;
+    display: none;
+}
+
+.noBox {
+    height: 40%;
+    width: 20%;
+    margin: auto;
+    margin-top: 10%;
+    padding-bottom: 1%;
+    background-color: aqua;
+    border: 5px solid white;
+    border-radius: 5px;
+    border-bottom-color: gray;
+    border-right-color: gray;
+    display: none;
+}
+
+.submitBox {
+    height: 40%;
+    width: 20%;
+    margin: auto;
+    margin-top: 10%;
+    padding-bottom: 1%;
+    background-color: aqua;
+    border: 5px solid white;
+    border-radius: 5px;
+    border-bottom-color: gray;
+    border-right-color: gray;
+    display: none;
+}
+
+.closeBox {
+    text-align: center;
+    color:black;
+    border: 3px solid white;
+    margin: 0% 35% 0% 35%;
+    background-color: darkgray;
+    cursor: default;
+}
+
+.submit {
+    text-align: center;
+    color:black;
+    border: 3px solid white;
+    margin: 0% 32.8% 3% 32.8%;
+    background-color: darkgray;
+    cursor: default;
+}
+
+#screen {
+    background-color: white;
+    margin: 10% 10% 0% 10%;
+    padding: 2%;
+    border: 5px solid gray;
+    border-radius: 5px;
+    
+}
+
+#passScreen {
+    background-color: white;
+    margin: 5% 10% 5% 10%;
+    padding: 2%;
+    border: 5px solid gray;
+    border-radius: 5px;
+}
